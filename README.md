@@ -8,14 +8,14 @@ npx skills update
 ## Installation
 
 ```bash
-npx skills add linlannet/agent-skills.git
+npx skills add https://gitee.com/linlannet/agent-skills.git
 
 ```
 
 Or via Agent Skills:
 
 ```bash
-npx agent-skills-cli install linlannet/agent-skills
+npx agent-skills-cli install https://gitee.com/linlannet/agent-skills
 ```
 
 ## Structure 目录结构
